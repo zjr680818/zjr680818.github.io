@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "jr_bolg",
+    "description": "",
+    "home_page_url": "https://zjr680818.github.io",
+    "feed_url": "https://zjr680818.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "zjr680818"
+    },
+    "items": [
+    ]
+}
