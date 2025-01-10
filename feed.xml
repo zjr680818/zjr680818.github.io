@@ -3,29 +3,32 @@
     <title>荆瑞の博客</title>
     <link href="https://zjr680818.github.io/feed.xml" rel="self" />
     <link href="https://zjr680818.github.io" />
-    <updated>2025-01-08T22:41:40+08:00</updated>
+    <updated>2025-01-10T22:59:48+08:00</updated>
     <author>
         <name>zjr680818</name>
     </author>
     <id>https://zjr680818.github.io</id>
 
     <entry>
-        <title>hi</title>
+        <title>测试</title>
         <author>
             <name>zjr680818</name>
         </author>
-        <link href="https://zjr680818.github.io/hi.html"/>
-        <id>https://zjr680818.github.io/hi.html</id>
+        <link href="https://zjr680818.github.io/ce-shi.html"/>
+        <id>https://zjr680818.github.io/ce-shi.html</id>
 
-        <updated>2025-01-08T22:41:40+08:00</updated>
+        <updated>2025-01-10T22:59:48+08:00</updated>
             <summary>
                 <![CDATA[
-                    hi,jeren zhang
+                    这是我的博客的第一个文章
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>hi,jeren zhang</p>
+                <p><strong>这是我的博客的第一个文章</strong></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="添加图片" data-columns="3">
+<figure class="gallery__item"><a href="https://zjr680818.github.io/media/posts/2/gallery/Risland-bizhi.png" data-size="1004x590"><img loading="lazy" src="https://zjr680818.github.io/media/posts/2/gallery/Risland-bizhi-thumbnail.png" alt="" width="720" height="423"></a></figure>
+</div></div>
             ]]>
         </content>
     </entry>
