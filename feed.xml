@@ -3,10 +3,30 @@
     <title>荆瑞の博客</title>
     <link href="https://zjr680818.github.io/feed.xml" rel="self" />
     <link href="https://zjr680818.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2025-01-08T22:41:40+08:00</updated>
     <author>
         <name>zjr680818</name>
     </author>
     <id>https://zjr680818.github.io</id>
 
+    <entry>
+        <title>hi</title>
+        <author>
+            <name>zjr680818</name>
+        </author>
+        <link href="https://zjr680818.github.io/hi.html"/>
+        <id>https://zjr680818.github.io/hi.html</id>
+
+        <updated>2025-01-08T22:41:40+08:00</updated>
+            <summary>
+                <![CDATA[
+                    hi,jeren zhang
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>hi,jeren zhang</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
